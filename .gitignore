@@ -9,3 +9,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Данные
+iris/
